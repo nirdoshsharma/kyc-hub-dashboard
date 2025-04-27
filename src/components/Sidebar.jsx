@@ -11,7 +11,6 @@ function Sidebar() {
         color: "white",
       }}
     >
-      {/* Logo Section */}
       <div style={{ padding: "20px", textAlign: "center" }}>
         <img
           src="https://www.kychub.com/wp-content/uploads/2023/05/LOGO_White.svg"
@@ -20,7 +19,6 @@ function Sidebar() {
         />
       </div>
 
-      {/* Menu Items */}
       <Menu theme="dark" mode="vertical" defaultSelectedKeys={["1"]}>
         <Menu.Item key="1">
           <Link to="/">Dashboard</Link>

@@ -4,7 +4,7 @@
     "name": "Alice Johnson",
     "monthlyIncome": 620000,
     "monthlyExpenses": 3500,
-    "creditScore": 899,
+    "creditScore": 199,
     "outstandingLoans": 15000,
     "loanRepaymentHistory": [1, 1, 1, 1, 1, 1, 0, 1],
     "accountBalance": 12500,
